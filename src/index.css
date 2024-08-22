@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+/* navbar */
+.navbar {
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.logo-heading {
+  font-weight: 600;
+  font-size: 20px;
+  color: rgb(0, 98, 255);
+}
+
+.nv-items {
+  margin-left: 43vw;
+  font-weight: 700;
+}
+
+.nav-item a {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* herosection */
+
+.hero {
+  padding: 50px;
+}
+
+.cl h1 {
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(0, 98, 255);
+}
+
+.cl p {
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+.cl span {
+  color: rgb(250, 86, 119);
+}
+
+.hero-btn {
+  margin-right: 3px;
+}
+
+/* features */
+
+.features h1 {
+  color: rgb(250, 86, 119);
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.heading {
+  font-size: 35px;
+  font-weight: 600;
+  text-shadow: 2px 2px 2px rgb(0, 98, 255);
+  color: rgb(0, 98, 255);
+}
+
+/* testimonial */
+
+.testimonial {
+  background-color: rgb(0, 98, 255);
+  color: aliceblue;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.testimonial:hover {
+  background-color: aliceblue;
+  color: rgb(0, 98, 255);
+  transition: all 0.3s;
+}
+
+/* footer */
+
+.footer {
+  background-color: rgb(0, 98, 255);
+  color: white;
+  padding: 20px;
+}
+
+.footer h1 {
+  font-size: 17px;
+}
+.footer h2 {
+  font-size: 13px;
+}
+
